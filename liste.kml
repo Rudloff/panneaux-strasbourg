@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Affichage sur panneaux expression libre à Strasbourg -  Colmar - Molsheim - Brumath</name>
+  <description><![CDATA[
+Liste des lieux pour faire de l'affichage
+--------------------------------------------------------------------------
+
+Site web : www.panneaux-expression-libre.com
+
+Pour indiquer les erreurs ou les panneaux non repertoriés merci d'envoyer un mail a info@absurde.com avec comme objets "panneaux strasbourg"
+strasbourg - colmar - molsheim - brumath]]></description>
+  <Style id="style146">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style139">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style140">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style141">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style143">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style145">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style142">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style136">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style133">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style137">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style147">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style144">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style138">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style135">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style134">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/fr_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://www.panneaux-expression-libre.com/pano3.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Rue de Saales / Piste du Herrenwasser | Centre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/rue-de-saales-herrenwasser" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style146</styleUrl>
+    <Point>
+      <coordinates>7.736363,48.576683,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place de Haguenau | Centre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/place-de-haguenau" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>7.742474,48.591293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du travail | Centre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/rue-du-travail" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>7.749481,48.593868,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Finkwiller | Centre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/panneau-rue-finkwiller-strasbourg" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>7.739997,48.579014,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place du Faubourg de Pierre | Centre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/place-du-faubourg-de-pierre" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>7.744980,48.590199,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue des Vosges | Centre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/avenue-des-vosges" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>7.748934,48.590370,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Kuhn | Centre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/rue-kuhn" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>7.738988,48.584896,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place de bordeaux | Centre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg">]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>7.758408,48.594292,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Finkmatt | Centre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg">]]></description>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>7.747915,48.589054,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Quai du Maire Dietrich | Centre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre/quai-du-maire-dietrich" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>7.759051,48.584614,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Erckmann Chatrian | Centre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>7.766261,48.589924,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place du Bocage | Centre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><div dir="ltr"></div>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>7.765950,48.596920,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Turenne | Contades</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/contades/rue-turenne" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>7.757270,48.588448,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Pierre Nuss | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/rue-pierre-nuss" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>7.725312,48.590805,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Bornes | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/rue-des-bornes" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>7.719730,48.587791,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Saint-Florent | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/rue-saint-florent" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>7.721570,48.593613,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de Mittelhausbergen | Cronenbourg</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/route-de-mittelhausbergen-hurtigheim" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>7.712378,48.599533,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de Mittelhausbergen | Cronenbourg</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/route-de-mittelhausbergen-hurtigheim" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>7.712413,48.599525,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Enfants | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/route-d-oberhausbergen" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>7.720414,48.591896,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de Mittelhausbergen | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/route-de-mittelhausbergen" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>7.717670,48.595249,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place Saint-Antoine | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/place-saint-antoine" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style139</styleUrl>
+    <Point>
+      <coordinates>7.708765,48.598423,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Saint-Nabor | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/rue-de-saint-nabor" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>7.721769,48.596493,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place François Arago | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/cronenbourg/place-francois-arago" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>7.717595,48.604595,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Rieth | Cronenbourg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>7.721865,48.601929,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Ettore Bugatti | Eckbolsheim</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/eckbolsheim/rue-ettore-bugatti" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>7.682748,48.590660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue traversière - Place de la mairie | Eckbolsheim</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/eckbolsheim/rue-traversiere-mairie" target="_blank">&gt; Voir les détails du panneau</a><br>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>7.688617,48.578487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Mathias Grunewald | Elsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/elsau/rue-mathias-grunewald" target="_blank">&gt; Voir les détails du panneau</a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>7.725349,48.567509,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Mathias Grunewald | Elsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/elsau/rue-mathias-grunewald" target="_blank">&gt; Voir les détails du panneau</a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>7.725320,48.567493,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Michel-Ange | Elsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/elsau/rue-michel-ange" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>7.720578,48.564026,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Palerme | Esplanade</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-esplanade/rue-de-palerme" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>7.764072,48.576492,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Londres | Esplanade</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-esplanade/rue-de-londres" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>7.770738,48.578758,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Fouday / Herrenwasser | Gare</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/gare/rue-de-fouday" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>7.732787,48.574306,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Faubourg National | Gare</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/gare/faubourg-national" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style140</styleUrl>
+    <Point>
+      <coordinates>7.735716,48.581833,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place de la Porte Blanche | Gare</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/gare/place-de-la-porte-blanche" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>7.731645,48.579765,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Hohwald | Gare</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/gare/la-laiterie-strasbourg" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>7.729579,48.576473,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Rosheim | Gare</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/gare/place-sainte-aurelie" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>7.732562,48.581497,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Jean Giraudoux - Hautepierre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-hautepierre/rue-jean-giraudoux" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>7.701502,48.587646,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de l&#39;Engelbreit | Hautepierre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>7.703969,48.583328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Baden-Powell | Hautepierre</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-hautepierre/rue-baden-powell" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>7.693579,48.598690,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Boulevard Dostoievsky &quot;Maillon&quot; | Hautepierre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><br>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>7.703151,48.591892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue Tolstoï | Hautepierre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-hautepierre/avenue-tolstoi" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>7.700236,48.596725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenu François Mitterand | Hautepierre</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-hautepierre/avenue-francois-mitterand" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>7.694756,48.585274,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de la Charmille | Koenigshoffen</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen/rue-de-la-charmille" target="_blank">&gt; Les détails du panneau</a></div>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>7.718663,48.583080,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Kirchheim | Koenigshoffen</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen/rue-de-kirchheim" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>7.700703,48.562977,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route des Romains | Koenigshoffen</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen/route-des-romains" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>7.708642,48.578552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Schnogeloch | Koenigshoffen</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen/rue-du-schnogeloch" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>7.714119,48.578262,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Saint-Joseph | Koenigshoffen</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen/rue-saint-joseph" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style141</styleUrl>
+    <Point>
+      <coordinates>7.711930,48.581432,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Hohberg | Koenigshoffen</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen/rue-du-hohberg" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>7.704857,48.579762,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Virgile | Koenigshoffen</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen/rue-virgile" target="_blank">&gt; Voir le panneau en détails</a></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>7.700601,48.581322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route des Romains | Koenigshoffen</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg">]]></description>
+    <styleUrl>#style143</styleUrl>
+    <Point>
+      <coordinates>7.696695,48.580124,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Comtes | Koenisghoffen</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg">&nbsp;]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>7.715449,48.579746,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place d&#39;Austerlitz | Krutenau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br>Panneau supprimé suite aux travaux de réaménagement de la Place d'Austerlitz.<br></div>]]></description>
+    <styleUrl>#style145</styleUrl>
+    <Point>
+      <coordinates>7.753378,48.577839,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Maréchal Juin | Krutenau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/krutenau/rue-du-marechal-juin" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>7.759480,48.578312,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Héros | La Wantzenau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/la-wantzenau/rue-des-heros-ecole-maternelle" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>7.825661,48.659344,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Verdon | Meinau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/meinau/rue-du-verdon" target="_blank">&gt; Voir les détails du panneau</a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>7.738044,48.550549,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue Christian Pfister | Meinau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/meinau/avenue-christian-pfister" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>7.752507,48.553150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue de Colmar (Krimmeri) | Meinau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/meinau/avenue-de-colmar-krimeri" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>7.752550,48.562874,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue de Colmar (Couffignal) | Meinau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/meinau/lycee-couffignal" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style142</styleUrl>
+    <Point>
+      <coordinates>7.749141,48.558949,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de la Plaine des Bouchers | Meinau</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/meinau/rue-de-la-plaine-des-bouchers" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>7.738549,48.562572,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Languedoc | Meinau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/meinau/rue-du-languedoc" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>7.749406,48.546387,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Bourgogne | Meinau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>7.750103,48.549194,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue d&#39;Ostwald / Place d&#39;Ostwald | Montagne Verte</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-montagne-verte/place-d-ostwald" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>7.707338,48.564468,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Mérovingiens | Montagne Verte</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-montagne-verte/rue-des-merovingiens" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>7.719226,48.571850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de Schirmeck | Montagne Verte</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-montagne-verte/route-de-schirmeck-debut" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>7.725851,48.574623,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de Schirmeck | Montagne Verte</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-montagne-verte/route-de-schirmeck" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>7.711233,48.570168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de Schirmeck | Montagne Verte</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-montagne-verte/route-de-schirmeck-angle-rue-friedolsheim" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>7.708127,48.566368,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Ballon | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/rue-du-ballon" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>7.762994,48.571941,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route du Rhin | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/route-du-rhin" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>7.763772,48.572872,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place du Bois de Rose | Neudorf</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/place-du-bois-de-rose" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>7.749953,48.568932,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Sainte-Aloïse | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/panneaux-staloise-strasbourg" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>7.763000,48.565590,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Ribeauvillé | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br>
+<a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/rue-de-ribeauville" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>7.769104,48.564049,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place de Wattwiller | Neudorf</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/place-de-wattwiller" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>7.784559,48.560390,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de l&#39;Hôpital | Neudorf</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/route-de-l-hopital" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>7.751606,48.568565,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place Henri Will | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/place-henri-will" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>7.760135,48.561344,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Square du Neufeld | Neudorf</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/place-du-neufeld" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>7.756460,48.566425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue Jean Jaurès | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/avenue-jean-jaures" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>7.773621,48.566910,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Vieil Armand | Neudorf</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-neuhof/rue-du-vieil-armand" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>7.777821,48.566536,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Rathsamhausen | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/rue-de-rathsamhausen" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>7.763364,48.569252,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route du Polygone | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/panneaux-polygone-strasbourg" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>7.755988,48.571541,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route du Polygone | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br>Panneau supprimé suite aux travaux de voirie et de création de logements.<br></div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>7.758708,48.566071,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Fréconrupt | Neudorf</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf/rue-de-freconrupt" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>7.765982,48.570343,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Piscine Kibitzenau | Neuhof</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/rue-gustave-binger" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style136</styleUrl>
+    <Point>
+      <coordinates>7.764802,48.557865,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Allée Reuss | Neuhof</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-neuhof/allee-reuss" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>7.769324,48.544994,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de l&#39;Indre | Neuhof</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-neuhof/arret-saint-christophe" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>7.766497,48.551228,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Canonniers | Neuhof</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>7.762849,48.554390,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Allée des Déportés | Neuhof</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style133</styleUrl>
+    <Point>
+      <coordinates>7.774061,48.542564,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Hautefort | Neuhof</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>7.768149,48.549198,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bowling de l&#39;Orangerie | Orangerie</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/orangerie/bowling-de-l-orangerie" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>7.775810,48.590076,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Cavaliers | Port du Rhin</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-port-du-rhin/portdurhin" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>7.799778,48.570530,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Allée Richard Wagner | Quartier des XV</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" border="0"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-quartier-des-xv/allee-richard-wagner" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>7.776580,48.587097,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue de la Forêt Noire | Quartier des XV</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-quartier-des-xv/avenue-de-la-foret-noire" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>7.772596,48.582981,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Rotterdam | Quartier des XV</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-quartier-des-xv/rue-de-rotterdam" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>7.778977,48.582108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de l&#39;Yser | Quartier des XV</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-quartier-des-xv/rue-de-l-yser" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>7.779871,48.585571,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place Sébastien Brant | Quartier des XV</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-quartier-des-xv/place-sebastien-brant" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style137</styleUrl>
+    <Point>
+      <coordinates>7.762871,48.586147,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chemin du Beulenwoerth | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/rue-du-beulenwoerth" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>7.791184,48.598862,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chemin du Gollenfeld | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/route-de-la-wantzenau" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style147</styleUrl>
+    <Point>
+      <coordinates>7.788156,48.616875,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place du Rad | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/place-du-rad" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>7.786547,48.623253,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de la Wantzenau | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/route-de-la-wantzenau" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>7.781391,48.611332,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de la Wantzenau / Cité U | Robertsau</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/route-de-la-wantzenau-cite-u" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>7.775362,48.601871,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Boussingault | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/rue-boussingault" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>7.782569,48.590782,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Conseil des Quinze | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/rue-du-conseil-des-quinze" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>7.781603,48.590538,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Docteur François | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/rue-du-docteur-francois" target="_blank">&gt; Voir les détails du panneau</a><br></div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>7.783889,48.610001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Gustave Binger | Robertsau</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/rue-gustave-binger" target="_blank">&gt; Voir les détails du panneau</a><br>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>7.783105,48.603920,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Liepvrette / Angle Doller | Robertsau</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau/rue-de-liepvrette-angle-doller" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>7.774340,48.616577,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route du Général de Gaulle | Schiltigheim</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/cus/schiltigheim/route-du-general-de-gaulle" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>7.737674,48.604324,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de la Mairie | Schiltigheim</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/cus/schiltigheim/rue-de-la-mairie" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style144</styleUrl>
+    <Point>
+      <coordinates>7.747966,48.604290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Jésuites | Stockfeld</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/stockfeld/stockfeld-jesuites" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>7.764469,48.538757,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route d&#39;Altenheim | Stockfeld</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/stockfeld/rue-d-altenheim" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>7.770123,48.537296,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de la Breitlach | Stockfeld</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>7.770875,48.530788,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Jacques Kablé | Brumath</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/hors-cus/panneaux-expression-libre-brumath/brumath" target="_blank">&gt; Voir les détails du panneau</a></div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>7.708800,48.730732,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Lorraine | Erstein</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/hors-cus/erstein/rue-de-lorraine" target="_blank">&gt; Voir les détails du panneau</a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>7.670174,48.425064,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Général Tassigny | Erstein</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/hors-cus/erstein/rue-du-general-lattre-de-tassigny" target="_blank">&gt; Voir les détails du panneau</a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>7.656223,48.416622,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place d&#39;Alsace | Erstein</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/hors-cus/erstein/place-d-alsace" target="_blank">&gt; Voir les détails du panneau</a><br>&nbsp;</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>7.654928,48.424366,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de la scierie | Erstein</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/hors-cus/erstein/rue-de-la-scierie" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>7.659311,48.424328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Moulin | Plobsheim</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/plobsheim/rue-du-moulin" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>7.726473,48.469879,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Moulin | Plobsheim</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/plobsheim/rue-du-moulin" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>7.726538,48.469879,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Saint-Georges | Molsheim</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style138</styleUrl>
+    <Point>
+      <coordinates>7.494473,48.543629,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Ladhof | Colmar</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>7.380152,48.102444,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Ampère | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg"></div>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>7.375989,48.089462,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place Billing | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>7.368264,48.082924,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue des Bonnes Gens | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>7.369637,48.081661,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de l&#39;Ill | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>7.381804,48.080158,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Thomas | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>7.366633,48.077877,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue de la Liberté | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>7.340691,48.076073,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Turenne | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>7.360561,48.072601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue d&#39;Alsace | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>7.362342,48.062119,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de la Semm | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style135</styleUrl>
+    <Point>
+      <coordinates>7.376182,48.068432,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue Foch | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>7.352901,48.068890,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue Foch | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>7.351055,48.065922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Route de Rouffach | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>7.338052,48.061863,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Erckmann Chatrian | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>7.342107,48.072689,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cité des Vosges | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style134</styleUrl>
+    <Point>
+      <coordinates>7.334769,48.072933,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Tauler | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>7.336164,48.069820,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chemin Ingersheimerweg</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>7.326164,48.080372,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Logelbach | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>7.342451,48.083069,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de Kaysersberg | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>7.345755,48.082565,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Messimy | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>7.353351,48.072128,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avenue de la Foire aux Vins | Colmar</name>
+    <description><![CDATA[<div><img src="http://www.panneaux-expression-libre.com/logo.jpg" alt="panneaux d&#39;expression libre strasbourg"></div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>7.362943,48.108177,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue de l&#39;Extenwoerth</name>
+    <description><![CDATA[67100 Strasbourg<br><a href="https://maps.google.fr/maps/place?ftid=0x4796c9a070a5f5e1:0x3d89e5cb00cedbd9&amp;q=Rue+de+l%27Extenwoerth,+Strasbourg&amp;hl=fr&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=rVMmUZruK4T3iQbV7oHoAw&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=48.560551,7.753055&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>7.753055,48.560551,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Louis Braille | Neuhof</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-neuhof/rue-louis-braille-rue-de-macon" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>7.764362,48.547352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Emile Belin | Neuhof</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-neuhof/rue-belin" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>7.766411,48.531109,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Boulevard Tauler | Quartier des XV</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-quartier-des-xv/boulevard-tauler" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>7.768278,48.589241,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Cranach | Elsau</name>
+    <description><![CDATA[<img src="http://www.panneaux-expression-libre.com/logo.jpg"><br><a href="http://www.panneaux-expression-libre.com/zones-affichage-libre/elsau/rue-de-cranach" target="_blank">&gt; Voir les détails du panneau</a>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>7.719068,48.565453,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Place des Romains</name>
+    <description><![CDATA[67200 Strasbourg<br><a href="https://maps.google.fr/maps/place?ftid=0x4796b62b7363bf95:0x989b49fd0f220be6&amp;q=Place+des+Romains,+Strasbourg&amp;hl=fr&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=uGAnUeCrGMKBiAbM5IC4AQ&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=48.580165,7.703862&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>7.703862,48.580166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue du Conseil des Quinze</name>
+    <description><![CDATA[67000 Strasbourg<br><a href="https://maps.google.fr/maps/place?ftid=0x4796c8e8e9675fc9:0x18a0f09832e128c2&amp;q=Rue+du+Conseil+des+Quinze,+Strasbourg&amp;hl=fr&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=G2InUbKnN-aYjAbZ44CABQ&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=48.590049,7.781892&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>7.781892,48.590050,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rue Kentzinger</name>
+    <description><![CDATA[67000 Strasbourg<br><a href="https://maps.google.fr/maps/place?ftid=0x4796c928585b032d:0xe6863c3fe893ad3f&amp;q=Rue+Kentzinger,+67000+Strasbourg,+Bas-Rhin,+Alsace&amp;hl=fr&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=WmMnUcW1M-KwiQbmn4HYAw&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=48.573524,7.796318&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>7.796318,48.573524,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parc du Rhin</name>
+    <description><![CDATA[67000 Strasbourg<br><a href="https://maps.google.fr/maps/place?ftid=0x4796c92ea9db798f:0x69b516d55252e72d&amp;q=Parc+du+Rhin,+Strasbourg&amp;hl=fr&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=3WMnUf-1EsO3iQbelIGICg&amp;dtab=5" target="_blank"><img src="https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=48.570334,7.799433&amp;thumb=0"></a>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>7.799433,48.570335,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

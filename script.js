@@ -7,16 +7,13 @@ var addPoints = function (point) {
 };
 var addPolyline = function (data) {
     'use strict';
-    var polyline = L.polyline(data.polyline, {color: 'red'}), gMap = 'https://maps.google.fr/maps?hl=fr&lci=bike&dirflg=b&daddr=', i;
+    var polyline = L.polyline(data.polyline, {color: 'red'});
     polylines.addLayer(polyline).addTo(map);
     map.fitBounds(polyline.getBounds());
     data.points.forEach(addPoints);
     markers.addTo(map);
-    for (i = 0; i < data.points.length - 1; i += 1) {
-        gMap += data.points[i].latLng.lat + ',' + data.points[i].latLng.lng + '+to:';
-    }
-    gMap += data.points[data.points.length - 1].latLng.lat + ',' + data.points[data.points.length - 1].latLng.lng;
-    $('#gMaps').attr('href', gMap).show();
+    $('#gMaps').attr('href', data.gMap).show();
+    $('#qr').attr('src', 'data:image/svg+xml;base64,' + data.qr);
     $('html, body').animate({scrollTop: $('#map').position().top}, 'fast');
     $.mobile.loading('hide');
 };
@@ -39,6 +36,7 @@ var init = function () {
     }).addTo(map);
     $('.button').on('vclick', loadMap);
     $('#map_wrapper').append('<a data-iconpos="right" data-icon="forward" id="gMaps" data-role="button" target="_blank">Ouvrir avec Google Maps</a>').trigger('create');
+    $('#map_wrapper').append('<img id="qr" class="qr" />');
     $('#gMaps').hide();
 };
 $(window).ready(init);

@@ -11,3 +11,7 @@ footer {
         float: none;
     }
 }
+.qr {
+    display: block;
+    margin: auto;
+}

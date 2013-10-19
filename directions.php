@@ -10,6 +10,7 @@
  * @license  LGPL https://www.gnu.org/licenses/lgpl.html
  * @link     https://rudloff.pro/
  * */
+require_once 'phpqrcode/qrlib.php'; 
 $dom = new DOMDocument();
 $dom->load('liste.kml');
 $places = $dom->getElementsByTagName('Placemark');
@@ -45,8 +46,19 @@ if (isset($route->shape)) {
     $points =array();
 }
 $orderedLocations = array();
+$gMap = 'https://maps.google.fr/maps?hl=fr&lci=bike&dirflg=b&daddr=';
 foreach ($route->locations as $point) {
     $orderedLocations[]= array('latLng'=>$point->latLng, 'title'=>$point->street);
+    $gMap .= $point->latLng->lat.','.$point->latLng->lng.'+to:';
 } 
-print(json_encode(array('polyline'=>$points, 'points'=>$orderedLocations)));
+$gMap=trim($gMap, '+to:');
+ob_start();
+QRCode::png($gMap);
+$qrcode = base64_encode(ob_get_contents());
+ob_end_clean();
+header('Content-Type: application/json');
+print(json_encode(
+    array('polyline'=>$points, 'points'=>$orderedLocations,
+    'qr'=>$qrcode, 'gMap'=>$gMap)
+));
 ?>

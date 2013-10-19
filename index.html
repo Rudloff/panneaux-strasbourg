@@ -7,12 +7,8 @@
 <!--[if lte IE 8]>
     <link rel="stylesheet" href="leaflet/leaflet.ie.css" />
 <![endif]-->
-<style>
-.map {
-    height:800px;
-}
-</style>
 <link rel="stylesheet" href="jquery/jquery.mobile-1.3.2.min.css" />
+<link rel="stylesheet" href="style.css" />
 <script src="jquery/jquery-1.9.1.min.js"></script>
 <script src="jquery/jquery.mobile-1.3.2.min.js" async></script>
 <script src="leaflet/leaflet.js"></script>
@@ -26,29 +22,31 @@
     <div class="ui-grid-a">
     <ul class="ui-block-a" data-role="listview">
     <li data-role="list-divider">Quartiers</li>
-    <li><a class="button">Centre</a></li>
-    <li><a class="button">Cronenbourg</a></li>
-    <li><a class="button">Eckbolsheim</a></li>
-    <li><a class="button">Elsau</a></li>
-    <li><a class="button">Esplanade</a></li>
-    <li><a class="button">Gare</a></li>
-    <li><a class="button">Hautepierre</a></li>
-    <li><a class="button">Koenigshoffen</a></li>
-    <li><a class="button">Meinau</a></li>
-    <li><a class="button">Montagne Verte</a></li>
-    <li><a class="button">Neudorf</a></li>
-    <li><a class="button">Neuhof</a></li>
-    <li><a class="button">Plobsheim</a></li>
-    <li><a class="button">Quartier des XV</a></li>
-    <li><a class="button">Robertsau</a></li>
-    <li><a class="button">Schiltigheim</a></li>
-    <li><a class="button">Stockfeld</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/centre">Centre</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/contades">Cronenbourg</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/eckbolsheim">Eckbolsheim</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/elsau">Elsau</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-esplanade">Esplanade</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/gare">Gare</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-strasbourg-hautepierre">Hautepierre</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/koenigshoffen">Koenigshoffen</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/meinau">Meinau</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-montagne-verte">Montagne Verte</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/neudorf">Neudorf</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-neuhof">Neuhof</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/plobsheim">Plobsheim</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/affichage-libre-quartier-des-xv">Quartier des XV</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/panneaux-expression-libre-robertsau">Robertsau</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/schiltigheim">Schiltigheim</a></li>
+    <li><a class="button" href="http://www.panneaux-expression-libre.com/zones-affichage-libre/stockfeld">Stockfeld</a></li>
     </ul>
-    <div id="map" class="map ui-block-b"></div>
+    <div class="ui-block-b" id="map_wrapper">
+    <div id="map" class="map"></div>
+    </div>
     </div>
     <footer data-role="footer">
-    <a href="http://www.panneaux-expression-libre.com/" target="_blank">Coordonnées fournies par Absurde</a>
-    <a href="http://www.mapquest.com/" target="_blank">Tracés fournis par MapQuest</a>
+    <a data-icon="info" data-corners="false" href="http://www.panneaux-expression-libre.com/" target="_blank">Coordonnées fournies par Absurde</a>
+    <a data-icon="info" data-corners="false" href="http://www.mapquest.com/" target="_blank">Tracés fournis par MapQuest</a>
     </footer>
     </div>
 </body>

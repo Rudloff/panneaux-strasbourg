@@ -1,0 +1,13 @@
+.map {
+    height:400px;
+}
+footer {
+    text-align:center;
+}
+@media all and (max-width: 35em) {
+    .ui-grid-a .ui-block-a,
+    .ui-grid-a .ui-block-b {
+        width: 100%;
+        float: none;
+    }
+}

@@ -38,7 +38,7 @@ var init = function () {
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
     $('.button').on('vclick', loadMap);
-    $('#map_wrapper').append('<a data-iconpos="right" data-icon="forward" id="gMaps" data-role="button" target="_blank">Open in Google Maps</a>').trigger('create');
+    $('#map_wrapper').append('<a data-iconpos="right" data-icon="forward" id="gMaps" data-role="button" target="_blank">Ouvrir avec Google Maps</a>').trigger('create');
     $('#gMaps').hide();
 };
 $(window).ready(init);

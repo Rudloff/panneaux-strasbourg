@@ -1,0 +1,15 @@
+{
+    "name": "Panneaux d'expression libre à Strasbourg",
+    "description": "Emplacement des panneaux d'expression libre à Strasbourg",
+    "developer": {
+        "name": "Pierre Rudloff",
+        "url": "https://rudloff.pro/"
+    },
+    "icons": {
+        "82": "/icon.png",
+        "60": "/icon_60.png",
+        "128": "/icon_big.png"
+    },
+    "default_locale": "fr",
+    "launch_path": "/index.html"
+}

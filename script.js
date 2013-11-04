@@ -32,7 +32,7 @@ var init = function () {
     'use strict';
     map = L.map('map').setView([48.584760, 7.750576], 13);
     L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a>'
+        attribution: '&copy; <a target="_blank" href="http://osm.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
     $('.button').on('vclick', loadMap);
     $('#map_wrapper').append('<a data-iconpos="right" data-icon="forward" id="gMaps" data-role="button" target="_blank">Ouvrir avec Google Maps</a>').trigger('create');

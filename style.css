@@ -1,14 +1,20 @@
 .map {
-    height:400px;
+height:300px;
 }
 footer {
     text-align:center;
 }
-@media all and (max-width: 35em) {
+.back {
+display:none;
+}
+@media all and (max-width: 360px) {
     .ui-grid-a .ui-block-a,
     .ui-grid-a .ui-block-b {
         width: 100%;
         float: none;
+    }
+    .back {
+        display:block;
     }
 }
 .qr {

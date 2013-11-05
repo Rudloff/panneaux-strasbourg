@@ -31,6 +31,7 @@ var loadMap = function (e) {
 var init = function () {
     'use strict';
     map = L.map('map').setView([48.584760, 7.750576], 13);
+    map.attributionControl.setPrefix('');
     L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a target="_blank" href="http://osm.org/copyright">OpenStreetMap</a>'
     }).addTo(map);

@@ -11,6 +11,7 @@
  * @link     https://rudloff.pro/
  * */
 require_once 'phpqrcode/qrlib.php'; 
+require_once 'config.php'; 
 $dom = new DOMDocument();
 $dom->load('liste.kml');
 $places = $dom->getElementsByTagName('Placemark');
@@ -33,7 +34,7 @@ $json=json_encode(
 $route=json_decode(
     file_get_contents(
         'http://open.mapquestapi.com/directions/v2/optimizedRoute?json='.
-        urlencode($json)
+        urlencode($json).'&key='.MAPQUEST_KEY
     )
 )->route;
 if (isset($route->shape)) {

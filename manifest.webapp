@@ -6,9 +6,11 @@
         "url": "https://rudloff.pro/"
     },
     "icons": {
-        "82": "/icon.png",
+        "32": "/favicon.png",
+        "82": "/icon_82.png",
         "60": "/icon_60.png",
-        "128": "/icon_big.png"
+        "128": "/icon_128.png",
+        "256": "/icon_256.png"
     },
     "default_locale": "fr",
     "launch_path": "/index.html"
